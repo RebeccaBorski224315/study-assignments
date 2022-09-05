@@ -34,18 +34,18 @@ The Chinese room experiment shows, that machines perform tasks without understan
 ![alt text](assets/2-2f.png)
 
 - Human Behaviour
- -  Neuroscience is studying the nervous system and for me therefore studies part of human behaviour
- - The Turing test is testing if a computer can be distinguishable from human behaviour in interactions
- - Psychology is the study of human behaviour
- - Weak AI is trying to mimic human Behaviour
+  -  Neuroscience is studying the nervous system and for me therefore studies part of human behaviour
+  - The Turing test is testing if a computer can be distinguishable from human behaviour in interactions
+  - Psychology is the study of human behaviour
+  - Weak AI is trying to mimic human Behaviour
 
 - Human Thought
- - Cognitive Science is studying the process of acquiring knowledge and understanding through thought
- - Strong AI is the idea of machines being able to think and be conscious just like humans
+  - Cognitive Science is studying the process of acquiring knowledge and understanding through thought
+  - Strong AI is the idea of machines being able to think and be conscious just like humans
 
  - Rational Behaviour
-  - Swarm intelligence is a decentralized collective behaviour that is self-organized
-  - The Chinese room experiment shows rational behaviour that just follows a task
+   - Swarm intelligence is a decentralized collective behaviour that is self-organized
+   - The Chinese room experiment shows rational behaviour that just follows a task
 
 - Rational Thought
   - Rational agents act upon given information and premises. They aim to perform actions with an optimal outcome. Rational agents are tightly connected to the field of cognitive science

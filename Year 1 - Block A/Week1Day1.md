@@ -28,4 +28,7 @@ b) Understanding involves more than the ability to formally reproduce appropriat
 c) It is only possible for systems to demonstrate understanding
 ==d) No machine can demonstrate genuine understanding==
 
-The Chinese room experiment shows, that machines can perform tasks without understanding the output just like Person 1 did in the experiment. 
+The Chinese room experiment shows, that machines perform tasks without understanding the output just like Person 1 did in the experiment.
+
+### 2.2f Connect the Post It notes (Fig 2.) to the relevant quadrant in the philosophy matrix (Fig 3.). For example, A = 1, 2, and B = 3, 4, 5 etc. Elaborate on your choices.
+![alt text](assets/2-2f.png)

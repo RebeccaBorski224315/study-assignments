@@ -23,10 +23,13 @@ Artificial intelligence is an algorithm based on machine learning and neural net
 In the Chinese room experiment we have two people, Person 1 sitting inside the room and Person 2 sitting outside of the room. Person 1 cannot understand Chinese unlike Person 2. Person 1 is now given instruction papers on what character to respond when handed a Chinese text from Person 2. Person 1 can now find the characters from the text on the instruction paper and respond with the correlating characters. Person 1 can therefore communicate with Person 2 even though he doesn't speak Chinese.
 
 ### 2.2e What is the ‘Chinese room experiment' supposed to show? Select the correct statement, and elaborate on your choice:
-a) Computers are not yet able to simulate the human ability to understand
-b) Understanding involves more than the ability to formally reproduce appropriate outputs
-c) It is only possible for systems to demonstrate understanding
-==d) No machine can demonstrate genuine understanding==
+- [ ] a) Computers are not yet able to simulate the human ability to understand
+
+- [ ] b) Understanding involves more than the ability to formally reproduce appropriate outputs
+
+- [ ] c) It is only possible for systems to demonstrate understanding
+
+- [x] d) No machine can demonstrate genuine understanding
 
 The Chinese room experiment shows, that machines perform tasks without understanding the output just like Person 1 did in the experiment.
 

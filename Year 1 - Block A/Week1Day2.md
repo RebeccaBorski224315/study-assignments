@@ -16,3 +16,12 @@ However, not everyone agreed with this notion. John Searle, a philosopher, asser
 1. **the universal Turing machine**, an abstract computer that contains the fundamental logical ideas behind a digital computer.
 2. **Church-Turing thesis**, everything humanly computable can also be computed by the universal Turing machine
 3. **Bombe**, a military code-breaking machine similar to the Bomba 
+
+### 1.2e Describe the procedure, and main objective of Turing's ‘Imitation Game'. Write your answer down
+Alan Turing invented the imitation game to determine whether or not a computer is able to think like a human. According to Turing, a machine is said to have artificial intelligence if it can simulate human behaviour in certain situations. 
+
+Three terminals are needed for the original imitation game, each of which is physically isolated from the other two. While the other two are run by humans, one terminal is run by a computer.
+
+One of the humans serves as the test's questioner, and the other human, along with the computer, serve as the test's replies. The questioner asks the respondents questions about a particular topic while adhering to a predetermined format and context. The questioner is then asked to determine which respondent was a human and which was a computer after a specified amount of time or questions.
+
+The test is run repeatedly. The computer is deemed to have artificial intelligence if the questioner cannot separate more than 50% of the computers answers from the answers of the human.

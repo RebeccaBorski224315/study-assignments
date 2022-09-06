@@ -23,10 +23,13 @@ Artificial intelligence is an algorithm based on machine learning and neural net
 In the Chinese room experiment we have two people, Person 1 sitting inside the room and Person 2 sitting outside of the room. Person 1 cannot understand Chinese unlike Person 2. Person 1 is now given instruction papers on what character to respond when handed a Chinese text from Person 2. Person 1 can now find the characters from the text on the instruction paper and respond with the correlating characters. Person 1 can therefore communicate with Person 2 even though he doesn't speak Chinese.
 
 ### 2.2e What is the ‘Chinese room experiment' supposed to show? Select the correct statement, and elaborate on your choice:
-a) Computers are not yet able to simulate the human ability to understand
-b) Understanding involves more than the ability to formally reproduce appropriate outputs
-c) It is only possible for systems to demonstrate understanding
-==d) No machine can demonstrate genuine understanding==
+- [ ] a) Computers are not yet able to simulate the human ability to understand
+
+- [ ] b) Understanding involves more than the ability to formally reproduce appropriate outputs
+
+- [ ] c) It is only possible for systems to demonstrate understanding
+
+- [x] d) No machine can demonstrate genuine understanding
 
 The Chinese room experiment shows, that machines perform tasks without understanding the output just like Person 1 did in the experiment.
 
@@ -34,18 +37,18 @@ The Chinese room experiment shows, that machines perform tasks without understan
 ![alt text](assets/2-2f.png)
 
 - Human Behaviour
- -  Neuroscience is studying the nervous system and for me therefore studies part of human behaviour
- - The Turing test is testing if a computer can be distinguishable from human behaviour in interactions
- - Psychology is the study of human behaviour
- - Weak AI is trying to mimic human Behaviour
+  -  Neuroscience is studying the nervous system and for me therefore studies part of human behaviour
+  - The Turing test is testing if a computer can be distinguishable from human behaviour in interactions
+  - Psychology is the study of human behaviour
+  - Weak AI is trying to mimic human Behaviour
 
 - Human Thought
- - Cognitive Science is studying the process of acquiring knowledge and understanding through thought
- - Strong AI is the idea of machines being able to think and be conscious just like humans
+  - Cognitive Science is studying the process of acquiring knowledge and understanding through thought
+  - Strong AI is the idea of machines being able to think and be conscious just like humans
 
  - Rational Behaviour
-  - Swarm intelligence is a decentralized collective behaviour that is self-organized
-  - The Chinese room experiment shows rational behaviour that just follows a task
+   - Swarm intelligence is a decentralized collective behaviour that is self-organized
+   - The Chinese room experiment shows rational behaviour that just follows a task
 
 - Rational Thought
   - Rational agents act upon given information and premises. They aim to perform actions with an optimal outcome. Rational agents are tightly connected to the field of cognitive science

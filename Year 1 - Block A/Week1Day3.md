@@ -4,6 +4,7 @@
 ### 4.1a Find out what a typical work day looks like for a data scientist (e.g., daily tasks, and related skills, etc.).
 
 ### 4.1b Come up with at least one question for the guest lecturer Willem van der Geest concerning his work as a data scientist.
+- 
 
 ## 5) Creative Brief: Minority Report
 ### What AI technologies, methods, and/or practices were depicted in the movie?

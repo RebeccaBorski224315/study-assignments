@@ -36,8 +36,8 @@ The Chinese room experiment shows, that machines perform tasks without understan
 ### 2.2f Connect the Post It notes (Fig 2.) to the relevant quadrant in the philosophy matrix (Fig 3.). For example, A = 1, 2, and B = 3, 4, 5 etc. Elaborate on your choices.
 ![alt text](assets/2-2f.png)
 
-- Human Behaviour
-  -  Neuroscience is studying the nervous system and for me therefore studies part of human behaviour
+~~- Human Behaviour
+  - Neuroscience is studying the nervous system and for me therefore studies part of human behaviour
   - The Turing test is testing if a computer can be distinguishable from human behaviour in interactions
   - Psychology is the study of human behaviour
   - Weak AI is trying to mimic human Behaviour
@@ -51,7 +51,7 @@ The Chinese room experiment shows, that machines perform tasks without understan
    - The Chinese room experiment shows rational behaviour that just follows a task
 
 - Rational Thought
-  - Rational agents act upon given information and premises. They aim to perform actions with an optimal outcome. Rational agents are tightly connected to the field of cognitive science
+  - Rational agents act upon given information and premises. They aim to perform actions with an optimal outcome. Rational agents are tightly connected to the field of cognitive science~~
 
 ### 3.2g After completing the readings and exercises of this section, would you provide the same answer to exercise 2.1b? Explain your answer.
 I think I would still provide the same answer but I would elaborate more. The field of AI is very broad and even in this short introduction I was introduced to so many theories and aspects that I think its really hard to break it down into just one sentence.

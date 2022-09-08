@@ -15,7 +15,11 @@ However, not everyone agreed with this notion. John Searle, a philosopher, asser
 ### 1.2b Besides the Turing Test, Alan Turing is renowned for his work on:
 1. **the universal Turing machine**, an abstract computer that contains the fundamental logical ideas behind a digital computer.
 2. **Church-Turing thesis**, everything humanly computable can also be computed by the universal Turing machine
-3. **Bombe**, a military code-breaking machine similar to the Bomba 
+3. **Bombe**, a military code-breaking machine similar to the Bomba
+
+| **Alan Turing Fun Facts** |
+|---|
+| - He was wearing a gas mask while riding the bike - He invented the captcha - he chained his mug so no one could steal it - the apple logo is rumoured to be based on his cyanide poisoning with an apple |
 
 ### 1.2e Describe the procedure, and main objective of Turing's ‘Imitation Game'. Write your answer down
 Alan Turing invented the imitation game to determine whether or not a computer is able to think like a human. According to Turing, a machine is said to have artificial intelligence if it can simulate human behaviour in certain situations. 

@@ -14,3 +14,5 @@ By using attention-grabbing aspects, telling a tale, including creative componen
 - Create an outline for your presentation
 - Think about the tool(s) that you would like to use for your presentation (e.g. PowerPoint, whiteboard etc.)
 - Practice your presentation (this includes timing it!)
+
+![alt text](presentations/TheGeneralProblemSolver_Presentation.pdf)

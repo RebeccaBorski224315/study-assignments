@@ -36,8 +36,9 @@ The Chinese room experiment shows, that machines perform tasks without understan
 ### 2.2f Connect the Post It notes (Fig 2.) to the relevant quadrant in the philosophy matrix (Fig 3.). For example, A = 1, 2, and B = 3, 4, 5 etc. Elaborate on your choices.
 ![alt text](assets/2-2f.png)
 
+**Old answers:**
 - Human Behaviour
-  -  Neuroscience is studying the nervous system and for me therefore studies part of human behaviour
+  - Neuroscience is studying the nervous system and for me therefore studies part of human behaviour
   - The Turing test is testing if a computer can be distinguishable from human behaviour in interactions
   - Psychology is the study of human behaviour
   - Weak AI is trying to mimic human Behaviour
